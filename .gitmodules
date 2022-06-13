@@ -1,0 +1,12 @@
+[submodule "hifi-client"]
+	path = hifi-client
+	url = https://github.com/quangpn24/hifi-client
+[submodule "hifi-admin"]
+	path = hifi-admin
+	url = https://github.com/anhtt2211/hifi-admin
+[submodule "hifi-employer"]
+	path = hifi-employer
+	url = https://github.com/trunghq234/hifi-employer
+[submodule "hifi-backend"]
+	path = hifi-backend
+	url = https://github.com/ddatdt12/hifi-backend
